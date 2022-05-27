@@ -16,7 +16,7 @@ body {
   }
   /* apply styles to <header> */
 header {
-  background-image: url("file:///Users/goodwinamundson/Desktop/Homework/run-buddy/assets/images/hero-bg.jpeg");  
+  background-image: url("../images/hero-bg.jpeg");  
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -76,7 +76,7 @@ section {
 
 /* Hero Style Start */
 .hero {
-  background-image: url("file:///Users/goodwinamundson/Desktop/Homework/run-buddy/assets/images/hero-bg.jpeg");
+  background-image: url("../images/hero-bg.jpeg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
