@@ -9,7 +9,7 @@ I was tasked with refactoring the code of a website that offers fitness training
 
 ## Screenshots
 Landing Page
-<img src= "../run-buddy/assets/images/screenshot1.png" />
+<img src= "../assets/images/screenshot1.png" />
 Trainers
 <img src= "../run-buddy/assets/images/screenshot2.png" />
 About
