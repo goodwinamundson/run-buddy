@@ -11,13 +11,13 @@ I was tasked with refactoring the code of a website that offers fitness training
 Landing Page
 <img src= "./assets/images/screenshot1.png" />
 Trainers
-<img src= "../run-buddy/assets/images/screenshot2.png" />
+<img src= "./assets/images/screenshot2.png" />
 About
-<img src= "../run-buddy/assets/images/screenshot3.png" />
+<img src= "./assets/images/screenshot3.png" />
 Contact
-<img src= "../run-buddy/assets/images/screenshot4.png" />
+<img src= "./assets/images/screenshot4.png" />
 Privacy Policy
-<img src= "../run-buddy/assets/images/screenshot5.png" />
+<img src= "./assets/images/screenshot5.png" />
 
 
 
