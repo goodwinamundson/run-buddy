@@ -8,15 +8,16 @@ I was tasked with refactoring the code of a website that offers fitness training
 * CSS
 
 ## Screenshots
-<img src= "(https://github.com/goodwinamundson/run-buddy/blob/main/assets/images/Screen%20Shot%202022-05-27%20at%206.11.14%20PM.png)" />
-
-![Page Screenshot](../assets/images/Screen Shot 2022-05-27 at 6.11.26 PM.png)
-
-![Page Screenshot](../assets/images/Screen Shot 2022-05-27 at 6.11.33 PM.png)
-
-![Page Screenshot](../assets/images/Screen Shot 2022-05-27 at 6.11.45 PM.png)
-
-![Page Screenshot](../assets/images/Screen Shot 2022-05-27 at 6.11.53 PM.png)
+Landing Page
+<img src= "../run-buddy/assets/images/screenshot1.png" />
+Trainers
+<img src= "../run-buddy/assets/images/screenshot2.png" />
+About
+<img src= "../run-buddy/assets/images/screenshot3.png" />
+Contact
+<img src= "../run-buddy/assets/images/screenshot4.png" />
+Privacy Policy
+<img src= "../run-buddy/assets/images/screenshot5.png" />
 
 
 
